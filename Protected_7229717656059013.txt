@@ -1,5 +1,6 @@
 whitelist = {
-game:HttpGet("https://shz.al/ZNpK")
+"XcNBAA",
+"uvsxi3"
 }
 if table.find(whitelist, game.Players.LocalPlayer.Name) then
  loadstring(game:HttpGet("https://raw.githubusercontent.com/jfjfjfjvg/NONOMO/refs/heads/main/Protected_4507870438222299.txt"))()
